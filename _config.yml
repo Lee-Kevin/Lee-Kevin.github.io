@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: 一起踢·足球训练营
-description: "致力于提高足球技术的平台"
+title: 一起做·Maker训练营
+description: "致力于"大众创新，万众创业"的平台"
 logo: 120x120.gif
 teaser: start.jpg
 locale: en_CN
-url: //zuqiuxunlian.com
+url: //diyjob.cc
 
 # Jekyll configuration
 
@@ -22,10 +22,10 @@ gems:
 
 # Site owner
 owner:
-  name: 王腾
-  web: http://zuqiuxunlian.com
-  email: awong1900@163.com
-  twitter: awong1900
+  name: 李建凯
+  web: http://diyjob.com
+  email: lidreamer@163.com
+  twitter: Jiankai_li
   bio: ""
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
